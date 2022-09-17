@@ -1,22 +1,8 @@
 ---
-title: Overview
-nav: overview
+title: Online Shopping
+nav: shopping-online
 ---
 
-## online tutorials
-
-* [official Arduino Site](https://www.arduino.cc/)
-* [LadyAda.net](http://www.ladyada.net/) and her nice [Arduino Tutorial](https://www.ladyada.net/learn/arduino/)
-* [Random Nerd Tutorials](https://randomnerdtutorials.com/)
-  * [Complete Guide for Ultrasonic Sensor HC-SR04 with Arduino](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/)
-* [Tutorials Point - Arduino](https://www.tutorialspoint.com/arduino/index.htm)
-* [MicroPython](https://micropython.org/)
-* [SparkFun](https://sparkfun.com)
-
-Online document/ebooks
-* [dokumen.pub](https://dokumen.pub/)
-
-## online shopping
 * [official Arduino Store USA](https://store-usa.arduino.cc/), [global distributors (including Canada)](https://store-usa.arduino.cc/pages/distributors?selectedStore=canada)
 * [Adafruit](https://adafruit.com)
 * [MakerFabs](https://www.makerfabs.com/makepython-esp32-starter-kit.html) MakePython ESP32 Dev Kit
