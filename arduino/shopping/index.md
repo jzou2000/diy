@@ -3,15 +3,87 @@ title: Online Shopping
 nav: shopping-online
 ---
 
-* [official Arduino Store USA](https://store-usa.arduino.cc/), [global distributors (including Canada)](https://store-usa.arduino.cc/pages/distributors?selectedStore=canada)
-* [Adafruit](https://adafruit.com)
-* [MakerFabs](https://www.makerfabs.com/makepython-esp32-starter-kit.html) MakePython ESP32 Dev Kit
-* Canada
-  * [DigiKey.ca](https://www.digikey.ca/)
-  * [PiShop.ca](https://www.pishop.ca/product-category/arduino/)
-  * [RobotShop](https://www.robotshop.com/ca/en/catalogsearch/result/?q=arduino+board&order=stats_sales_order_count&dir=desc&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGDDGTTsChb0p60BSg2cWBNEi1NiJ5kJzMOX7iVkyUuuc3j1M8bRXxoCcD0QAvD_BwE)
-  * [Allied Electronics and Automation](https://www.robotshop.com/ca/en/catalogsearch/result/?q=arduino+board&order=stats_sales_order_count&dir=desc&gclid=CjwKCAjw4qCKBhAVEiwAkTYsPGDDGTTsChb0p60BSg2cWBNEi1NiJ5kJzMOX7iVkyUuuc3j1M8bRXxoCcD0QAvD_BwE)
-  * [ElmWoods Electronics](https://elmwoodelectronics.ca/collections/arduino?gclid=CjwKCAjw4qCKBhAVEiwAkTYsPKZMUSCE_8Y2kyKZOSkfbTATc4ZwXWy6wxkXp8pm1FUCh-8jAhm7FRoC7GoQAvD_BwE)
-  * [Canada Robotix](https://www.canadarobotix.com/)
-  * [X2 Robotics](https://x2robotics.ca/index.php?route=common/home)
-  * [ABRA](https://abra-electronics.com/) NYC & Montreal
+<style>
+
+.canada {
+    background-color: papayawhip;
+    border-radius: 8px;
+    margin: 16px 12px;
+}
+
+.world {
+    background-color: lavender;
+    border-radius: 8px;
+    margin: 16px 12px;
+}
+
+.anchor-panel a {
+    text-decoration-line: none;
+}
+.anchor-panel h2 {
+  padding: 20px;
+}
+.anchor-panel img {
+    display: inline-block;
+    box-shadow: 4px 4px 4px lightgrey;
+    border-radius: 8px;
+    max-width: 240px;
+    margin: 16px 12px;
+    vertical-align: middle;
+}
+</style>
+
+
+
+
+<div class='canada anchor-panel'>
+
+  <h2>Canada</h2>
+
+  <a href='https://x2robotics.ca/index.php?route=common/home'>
+    <img src='x2-robotics.png' alt='X2 Robotics'>
+  </a>
+
+  <a href='https://www.canadarobotix.com/'>
+    <img src='canada-robotix.png' alt='Canada Robotix'>
+  </a>
+
+  <a href='https://abra-electronics.com/'>
+    <img src='abra.png' alt='ABRA (NY & Montreal)'>
+  </a>
+
+  <a href='https://www.robotshop.com/ca/en/'>
+    <img src='robotshop.png' alt='RobotShop'>
+  </a>
+
+  <a href='https://ca-en.alliedelec.com/'>
+    <img src='allied-electronics.png' alt='Allied Electronics and Automation'>
+  </a>
+
+  <a href='https://pishop.ca/'>
+    <img src='pishop.png' alt='PiShop.ca'>
+  </a>
+
+  <a href='https://digikey.ca/'>
+    <img src='digi-key.png' alt='Digi-Key.ca'>
+  </a>
+
+</div>
+
+<div class='world anchor-panel'>
+
+  <h2>The World</h2>
+
+  <a href='https://www.adafruit.com/'>
+    <img src='adafruit.png' alt='ada fruit'>
+  </a>
+
+  <a href='https://store-usa.arduino.cc/'>
+    <img src='arduino-store.png' alt='arduino store'>
+  </a>
+
+  <a href='https://www.makerfabs.com'>
+    <img src='makerfabs.png' alt='makerfabs'>
+  </a>
+
+</div>
